@@ -5,7 +5,6 @@ import Evtx.Evtx as evtx
 from bs4 import BeautifulSoup
 import pytz
 import time
-
 f = open('이벤트.txt','r', encoding= "utf-8" )
 
 # print(type(Thistime)) # [class 'datetime.datetime']
